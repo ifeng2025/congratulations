@@ -2,9 +2,9 @@
   "greeting": "Hiya",
   "name": "Min",
   "greetingText": "It's your graduation day!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/fm2.png",
-  "text1": "It's your birthday!!! :D",
+  "wishText": "天涯海角，惟愿港城的星辰大海指引你前进的道路! ;)",
+  "imagePath": "img/fm2.jpg",
+  "text1": "It's your graduation day!!! :D",
   "textInChatBox": "Congratulations to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
   "text2": "I wanted to send u a real bouquet.",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Congratulations!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "Okay, click and watch it again.",
+  "replayText": "反复认真看上十遍!!!不然手机立刻爆炸!.",
   "outroSmiley": ":)"
 }
