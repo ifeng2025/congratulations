@@ -1,8 +1,8 @@
 {
   "greeting": "Hiya",
   "name": "Min",
-  "greetingText": "It's your graduation day!",
-  "wishText": "虽学生时代结束,但仍愿你在山海之城不断探索 ;)",
+  "greetingText": "Congratulations!",
+  "wishText": "虽学生时代告一段落,但仍愿你在山海之城不断探索 ;)",
   "imagePath": "img/fm3.jpg",
   "text1": "It's your graduation day!!! :D",
   "textInChatBox": "Congratulations to you!! Yeee! Many many happy blah...",
@@ -18,6 +18,6 @@
   "bigTextPart2": "O",
   "wishHeading": "Congratulations!",
   "outroText": "Okay, click and watch it again.",
-  "replayText": "反复认真看上十遍!!!不然手机立刻爆炸!.",
+  "replayText": "反复认真看上十遍!!!不然手机立刻爆炸!",
   "outroSmiley": ":)"
 }
